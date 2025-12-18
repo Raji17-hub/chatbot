@@ -1,0 +1,7 @@
+matplotlib
+nltk
+spacy
+transformers
+torch
+plyer
+schedule
